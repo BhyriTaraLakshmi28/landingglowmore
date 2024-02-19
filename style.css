@@ -1,0 +1,90 @@
+h1 
+{ font-family: Papyrus, fantasy; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px;background-color: #F31559; }
+ h3 
+ { font-family: Papyrus, fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; background-color: #D0BFFF;}
+ p 
+ { font-family: Papyrus, fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px;background-color: #DBC4F0; }
+ marquee
+ { font-family: Papyrus, fantasy; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px;background-color: #9F91CC; }
+pre 
+{ font-family: Papyrus, fantasy; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; background-color: #9F91CC;}
+
+h5
+ { font-family: Papyrus, fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+
+ 
+ a
+ { font-family: Papyrus, fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+
+ ol
+ { font-family: Papyrus, fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px;background-color:#E9A8F2; }
+
+ table 
+ { font-family: Papyrus, fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+
+ script
+ { font-family: Papyrus, fantasy; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; }
+
+body
+{
+   background-color:#FFC0D9;
+}
+
+table
+{
+    border: #402B3A;
+}
+
+th
+{
+    background-color: #7360DF;
+}
+
+td
+{
+   background-color: #AC87C5;
+}
+
+img
+{
+    border:5px solid #C499F3;
+    border-top-left-radius: 35px; ;
+    border-bottom-right-radius:35px ;
+}
+
+.myclass
+{
+background-color: blueviolet;
+}
+
+#myid
+{
+    background-color: #9F91CC; 
+}
+
+s
+{
+    background-color: cyan;
+    color: darkmagenta;
+}
+
+input
+{
+    height: 35px;
+    width: 245px;
+    border: 2px solid #011627 ;
+    border-radius: 25px;
+    padding-left: 2%;
+    font-weight: bold;
+    
+}
+
+.myclass2
+{
+    background-color: darkmagenta ;
+    font-size: 25px;
+    color: black;
+    margin: 25px;
+    
+}
+
